@@ -1,0 +1,2 @@
+# cmp-codelab
+CMP init
